@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Users\Index.cshtml" />
+    <Content Remove="wwwroot\js\users\index.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Users\html\Index.cshtml" />
+    <None Include="wwwroot\js\users\index.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="8.0.1" />
+  </ItemGroup>
+
+</Project>
