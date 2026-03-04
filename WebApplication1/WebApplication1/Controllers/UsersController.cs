@@ -14,7 +14,6 @@ namespace WebApplication1.Controllers
         public readonly string _usersApiUrl;
         private static List<UserDto> _users = new List<UserDto>();
         private static List<int> _deletedIds = new();
-        private static int _nextId = 1;
 
         public UsersController(HttpClient httpClient, IConfiguration configuration)
         {
@@ -46,14 +45,22 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost("Create")]
-        public IActionResult Create([FromBody] UserDto model)
+        public async Task<IActionResult> Create([FromBody] UserDto model)
         {
             TrimStrings(model);
 
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            model.Id = _nextId++;
+            HttpResponseMessage response = await _httpClient.GetAsync(_usersApiUrl);
+            List<UserDto> apiUsers = await response.Content.ReadFromJsonAsync<List<UserDto>>() ?? new List<UserDto>();
+
+            int apiCount = apiUsers.Count(u => !_deletedIds.Contains(u.Id));
+
+            int localCount = _users.Count;
+
+            model.Id = (apiCount + localCount) + 1;
+
             _users.Add(model);
 
             return Ok(model);
@@ -67,23 +74,23 @@ namespace WebApplication1.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            // 1️⃣ Traer todos los usuarios de la API
+            // Traer todos los usuarios de la API
             HttpResponseMessage response = await _httpClient.GetAsync(_usersApiUrl);
             List<UserDto> apiUsers = await response.Content.ReadFromJsonAsync<List<UserDto>>();
             if (apiUsers == null) apiUsers = new List<UserDto>();
 
-            // 2️⃣ Unir con los locales (_users)
+            // Unir con los locales (_users)
             List<UserDto> allUsers = apiUsers
                 .Where(u => !_deletedIds.Contains(u.Id)) // ignorar eliminados
                 .Concat(_users)
                 .ToList();
 
-            // 3️⃣ Buscar usuario
+            // Buscar usuario
             UserDto user = allUsers.FirstOrDefault(u => u.Id == id);
             if (user == null)
                 return NotFound();
 
-            // 4️⃣ Actualizar campos
+            // Actualizar campos
             user.Email = model.Email;
             user.Username = model.Username;
             user.Password = model.Password;
@@ -97,7 +104,7 @@ namespace WebApplication1.Controllers
             user.Address.Number = model.Address.Number;
             user.Address.Zipcode = model.Address.Zipcode;
 
-            // 5️⃣ Si era de la API, agregar a locales para poder actualizar
+            // Si era de la API, agregar a locales para poder actualizar
             if (!_users.Any(u => u.Id == user.Id))
                 _users.Add(user);
 
@@ -123,7 +130,7 @@ namespace WebApplication1.Controllers
             int pageSize = 10,
             string search = null)
         {
-            // 🔹 1. Obtener usuarios de API pública
+            // Obtener usuarios de API pública
             HttpResponseMessage response = await _httpClient.GetAsync(_usersApiUrl);
 
             if (!response.IsSuccessStatusCode)
@@ -135,7 +142,7 @@ namespace WebApplication1.Controllers
             if (apiUsers == null)
                 apiUsers = new List<UserDto>();
 
-            // 🔹 2. Unir con los locales (_users)
+            // Unir con los locales (_users)
             List<UserDto> allUsers = apiUsers
                 .Concat(_users)
                 .ToList();
@@ -144,7 +151,6 @@ namespace WebApplication1.Controllers
             .Where(u => !_deletedIds.Contains(u.Id))
             .ToList();
 
-            // 🔹 3. Filtro
             if (!string.IsNullOrWhiteSpace(search))
             {
                 allUsers = allUsers.Where(u =>
@@ -157,7 +163,6 @@ namespace WebApplication1.Controllers
 
             int total = allUsers.Count;
 
-            // 🔹 4. Paginación
             List<UserDto> pagedUsers = allUsers
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)

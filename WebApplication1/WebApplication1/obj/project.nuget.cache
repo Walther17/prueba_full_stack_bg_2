@@ -1,17 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "6vFb+V1WIxY=",
+  "dgSpecHash": "EAklzR+CISs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wjoan\\Documents\\devjoander7\\csharp\\mvc\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wjoan\\.nuget\\packages\\newtonsoft.json\\8.0.1\\newtonsoft.json.8.0.1.nupkg.sha512"
+    "C:\\Users\\Wolivo\\.nuget\\packages\\newtonsoft.json\\8.0.1\\newtonsoft.json.8.0.1.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
+      "message": "Package 'Newtonsoft.Json' 8.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "projectPath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "warningLevel": 1,
-      "message": "El paquete \"Newtonsoft.Json\" 8.0.1 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "filePath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net8.0"
@@ -20,8 +22,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
+      "message": "Package 'Newtonsoft.Json 8.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "warningLevel": 1,
-      "message": "El paquete \"Newtonsoft.Json 8.0.1\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "filePath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "libraryId": "Newtonsoft.Json",
       "targetGraphs": [
         "net8.0"

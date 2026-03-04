@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\views\\users\\html\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\users\\html\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\wwwroot\\js\\users\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\users\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\charactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|c:\\users\\wolivo\\documents\\prueba_full_stack_bg_2\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56F5198A-FA2F-4CBF-B5A1-5F7951FDE47F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\CharacterController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CharacterController.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\CharacterController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CharacterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:13:35.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAuwK8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:18.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T14:03:18.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:18.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Models\\Users.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Users.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:18.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-04T14:03:18.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Users\\html\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Users\\html\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Users\\html\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Users\\html\\Index.cshtml*",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T14:03:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\wwwroot\\js\\users\\index.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\users\\index.js",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\wwwroot\\js\\users\\index.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\users\\index.js",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAvwJgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-04T14:03:18.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T14:03:18.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T14:03:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T14:03:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T14:03:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Models\\PagedResult.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:18.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T14:03:18.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:03:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T14:03:18.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Wolivo\\Documents\\prueba_full_stack_bg_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T14:03:18.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
