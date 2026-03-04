@@ -1,0 +1,44 @@
+Cambio de Forma de Pago – Telconet
+Descripción
+
+Módulo para gestión de solicitudes de cambio de forma de pago: creación de casos, validaciones, notificaciones y seguimiento del trámite.
+Lógica de negocio implementada principalmente en Stored Procedures.
+
+Tecnologías
+
+Backend: Java (Spring Boot)
+Frontend: PHP
+Base de datos: Oracle
+Lógica: Stored Procedures 
+
+Envío de Notificaciones Externas Masivas – Telconet
+Descripción
+
+Sistema para envío masivo de notificaciones a clientes afectados, con creación automática de casos y trazabilidad de estados.
+Procesamiento optimizado para alto volumen de datos mediante Stored Procedures.
+
+Tecnologías
+Backend: Java (Spring Boot)
+Frontend: PHP
+Base de datos: Oracle
+Lógica: Stored Procedures
+
+
+Portal Gestión Comercial – Difare
+Descripción
+
+Portal para gestión comercial: distribución de presupuesto, control de ventas y validaciones por rol (Jefe / Asesor).
+Incluye procesos ETL para extracción de datos desde Netezza, transformación, cálculos comerciales y carga en SQL Server para su posterior consumo en el portal.
+
+Lógica de negocio y procesos de cálculo centralizados en Stored Procedures y expuestos mediante APIs.
+
+Tecnologías
+
+Backend: .NET (APIs REST)
+Frontend: React
+Base de datos: SQL Server
+Fuente de datos: Netezza
+Lógica: Stored Procedures
+Procesos ETL: SQL y cargas programadas
+
+
